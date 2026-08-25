@@ -1,0 +1,8 @@
+pwd - visar var i filsystemet jag står. Jag använde det för att kontrollera att jag stod i rätt mapp innan jag skapade filer eller innan jag startade vs code för att börja koda.
+ls - Jag använde den när jag ville kontrollera att de filerna jag har skapat i mina mapparna verkligen finns. Till exempel när jag skapade mina-bash-kommandon.txt filen i verktygsuppgifter mappen ville jag se ifall det funka så jag kontrollera med kommandot ls.
+cd - Använde jag för att navigera runt. fram och tillbaka. Ibland skrev jag cd .. för att gå tillbaka ett steg. Ibland skrev använde jag endast cd för att starta om från början.
+mkdir - för att skapa mappen verktygsuppgift.
+touch - för att skapa filen mina-bash-kommandon.txt filen.
+mv - använde jag för att döpa om filnamnet för jag råka skriva fel. Jag skrev mina-bashkommandon.txt istället för mina-bash-kommandon.txt.
+code . _ för att börja koda i vscode. Men jag gjorde inte det förräns jag var i mappen verktygsuppgifter. Jag kontrollerade det genom pwd kommandot. 
+cat - använde jag nu i slutet för att kunna se den här texten där jag förklarar mina bash kommandon.
